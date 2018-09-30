@@ -93,6 +93,10 @@ p.lead {
   outline-color: #d48a6e;
 }
 
+.navbar-toggler{
+  visibility: hidden;
+}
+
 @media (min-width: 992px) {
   #sideNav {
     text-align: center;
